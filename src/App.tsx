@@ -13,7 +13,7 @@ import Applications from './pages/Applications'
 
 function App() {
   return (
-    <div className="min-h-screen bg-white">
+    <div className="min-h-screen bg-cyber-black">
       <Navbar />
       <Routes>
         <Route path="/" element={
