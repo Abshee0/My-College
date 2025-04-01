@@ -104,7 +104,7 @@ function Hero() {
                                         <motion.span
                                             key={index}
                                             variants={letterVariants}
-                                            className={letter === " " ? "mr-3" : ""}
+                                            className={letter === " " ? "mr-4" : ""}
                                             style={{ 
                                                 display: "inline-block",
                                                 textShadow: "0 0 10px rgba(0, 247, 255, 0.5)"
